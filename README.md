@@ -13,6 +13,9 @@ Start gun-a
 # Copyright
 يمنع تكرار نشر هذا المود بدون حقوق أو شي يثبت مصدر ألمود.
 
-#Credits
+# Credits
 Animation Created By Guy293 & Alfkrah.
 
+# Important
+You Must create a folder to the mod with name : gun-a
+ملاحظة : يجب تسمية ملف الذي ستضع فيه الملفات بأسم : gun-a
